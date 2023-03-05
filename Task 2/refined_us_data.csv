@@ -1,0 +1,10 @@
+web_browser,operating_sys,time_zone,from_url,to_url,city,longitude,latitude,time_in,time_out
+Chrome,Windows,America/New_York,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,-70.954903,42.576698,2012-04-01 19:03:50,2012-04-01 19:03:57
+Other,Other,America/Denver,www.AwareMap.com,www.monroecounty.gov,Provo,-111.613297,40.218102,2012-03-16 18:40:49,2011-06-16 22:13:13
+IE,Windows,America/New_York,t.co,boxer.senate.gov,Washington,-77.043098,38.9007,2012-04-02 22:50:30,2012-04-02 22:50:35
+Safari,Mac OS X,America/Sao_Paulo,direct,apod.nasa.gov,Braz,-46.616699,-23.549999,2012-04-04 02:37:10,2012-04-04 02:37:24
+Chrome,Windows,America/New_York,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,-71.714699,42.286499,2012-04-05 06:23:50,2012-04-05 06:23:59
+Chrome,Windows,America/New_York,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,-71.714699,42.286499,2012-04-06 10:10:30,2012-04-06 10:10:48
+Chrome,Windows,Europe/Warsaw,plus.url.google.com,www.nasa.gov,Luban,15.2833,51.116699,2012-04-07 13:57:10,2012-04-07 13:57:20
+Firefox,Windows,America/Los_Angeles,direct,www.nysdot.gov,Seattle,-122.332603,47.5951,2012-04-11 01:17:10,2012-04-11 01:17:20
+Firefox,Mac OS X,America/New_York,t.co,oversight.house.gov,Washington,-77.092796,38.937599,2012-04-12 05:04:00,2012-04-12 05:04:03
